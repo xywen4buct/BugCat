@@ -1,0 +1,3 @@
+The model of ablation experiment in our paper is preserved here. For each variant, 
+ten experiments are performed and the corresponding model is preserved. Among them, 
+the first variant is 1bugcat, the second is 2bugcat, the third is 3bugcat, and the fourth is 4bugcat.
